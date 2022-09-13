@@ -1,0 +1,10 @@
+{
+  "name": "com.github.said-deveaser.sh-dialog-system",
+  "description": "Dialog system",
+  "version": "0.0.1",
+  "unity": "2021.9",
+  "displayName": "SHDialogSystem",
+  "dependencies": {
+    "com.github.siccity.xnode": "https://github.com/Siccity/xNode.git"
+  }
+}
